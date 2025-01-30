@@ -28,11 +28,7 @@ $$
 \vec{u} = \vec{v} <=> Z_{\vec{u}} = Z_{\vec{v}}
 $$
 # II) Forme trigonométrique
-## 1) Activité
-
-![[image.jpg]]
-
-## 2) définitions
+## 1) définitions
 
 Pour tout point M distinct de 0 : On peut déterminer r et θ tel que 
 - $$
